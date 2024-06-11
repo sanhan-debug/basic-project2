@@ -1,0 +1,9 @@
+.bg-primary {
+    width: 100%;
+    height: max-content;
+}
+
+nav-link {
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

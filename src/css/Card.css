@@ -1,0 +1,15 @@
+.card-conatiner {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+
+}
+
+.card {
+    box-sizing: border-box;
+}
+
+.card img {
+    border-radius: 8px;
+}
